@@ -93,8 +93,8 @@ print(response)
 ```
 
 ### OUTPUT:
+![WhatsApp Image 2025-09-19 at 10 32 16_6998bee3](https://github.com/user-attachments/assets/763b6a9f-9fc1-4fcf-8af9-b9928eb53032)
 
-<img width="1078" height="789" alt="image" src="https://github.com/user-attachments/assets/2d1dbd4d-54ee-4316-ad01-3fa21a742616" />
 
 
 ### RESULT: 

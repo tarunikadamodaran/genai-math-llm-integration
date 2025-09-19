@@ -96,5 +96,6 @@ print(response)
 
 <img width="1078" height="789" alt="image" src="https://github.com/user-attachments/assets/2d1dbd4d-54ee-4316-ad01-3fa21a742616" />
 
+
 ### RESULT: 
 The code enables LLM-driven Area of Rectangle calculation via function calling.
